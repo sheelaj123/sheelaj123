@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm SHEELAJ BABU</h1>
 <h3 align="center">Looking for a Software engineer Interns(role) from India</h3>
-<img align="right" alt="coding" width="600" src="https://i.pinimg.com/originals/fb/b2/67/fbb267e2613dfacaeb398ee15cdf710e.gif">
+<img align="in center" alt="coding" width="800" src="https://i.pinimg.com/originals/fb/b2/67/fbb267e2613dfacaeb398ee15cdf710e.gif">
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheelaj123&label=Profile%20views&color=0e75b6&style=flat" alt="sheelaj123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheelaj123" alt="sheelaj123" /></a> </p>
