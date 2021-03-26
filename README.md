@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SHEELAJ BABU</h1>
+<h1 align="center">Hi 👋, I'm Sheelaj</h1>
 <h3 align="center">Looking for a Software engineer Interns(role) from India</h3>
 <img align="in center" alt="coding" width="800" src="https://i.pinimg.com/originals/fb/b2/67/fbb267e2613dfacaeb398ee15cdf710e.gif">
 
