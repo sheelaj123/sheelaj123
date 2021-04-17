@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sheelaj</h1>
-<h3 align="center">Looking for a Software engineer Interns(role) from India</h3>
+<h1 align="center">Hi 👋, I'm Babu</h1>
+<h3 align="center">Student of Computer Sc. department at IIIT- Bhagalpur from India</h3>
 <img align="in center" alt="coding" width="800" src="https://i.pinimg.com/originals/fb/b2/67/fbb267e2613dfacaeb398ee15cdf710e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheelaj123&label=Profile%20views&color=0e75b6&style=flat" alt="sheelaj123" /> </p>
