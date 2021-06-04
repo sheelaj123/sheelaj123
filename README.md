@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Project on a Restaurants Ticket details using python**
 
-- 🌱 I’m currently learning **Python using Machine learning & Data bases**
+- 🌱 I’m currently learning **Python using Machine learning & Data Sciences**
 
 - 📝 I regularly write articles on [https://sbabukanchausi.blogspot.com/](https://sbabukanchausi.blogspot.com/)
 
