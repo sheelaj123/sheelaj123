@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Babu</h1>
 <h3 align="center">Student of Computer Sc. department at IIIT- Bhagalpur from India</h3>
-<img align="in center" alt="coding" width="800" src="https://i.pinimg.com/originals/fb/b2/67/fbb267e2613dfacaeb398ee15cdf710e.gif">
+<img align="in center" alt="coding" width="800" src="https://i.pinimg.com/originals/01/69/f9/0169f9ef33c0bd267828f9d0a6488da0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheelaj123&label=Profile%20views&color=0e75b6&style=flat" alt="sheelaj123" /> </p>
 
