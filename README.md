@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/sheelajb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sheelajb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/babusheelaj1999/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/babusheelaj1999/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/sheelajbabu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/sheelajbabu" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/sheelajbabu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/sheelajbabu" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/sbabu.kanchausi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/sbabu.kanchausi/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/b_s.1999/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/b_s.1999/" height="30" width="40" /></a>
   
