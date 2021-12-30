@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Babu</h1>
 <h3 align="center">Student of Computer Sc. department at IIIT- Bhagalpur from India</h3>
-<img align="in center" alt="coding" width="800" src="https://i.pinimg.com/originals/01/69/f9/0169f9ef33c0bd267828f9d0a6488da0.gif">
+<img align="in center" alt="coding" width="800" src="https://i.pinimg.com/originals/b5/de/9b/b5de9b5bd7cf36be3ec2e1558e81e802.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheelaj123&label=Profile%20views&color=0e75b6&style=flat" alt="sheelaj123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheelaj123" alt="sheelaj123" /></a> </p>
 
@@ -15,6 +14,9 @@
 - 📝 I regularly write articles on [https://sbabukanchausi.blogspot.com/](https://sbabukanchausi.blogspot.com/)
 
 - 📫 How to reach me **babusheelaj1999@gmail.com**
+- ![image](https://user-images.githubusercontent.com/64604976/147754454-104b2cd4-8b71-4409-accf-93fc9781822c.png) Google Website: **https://sites.google.com/view/sheelaj-babu/** 
+
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12NHhJnNDQ2Qcj3ui1DQHQSMRw7j3l4Yj/view?usp=sharing]
 
