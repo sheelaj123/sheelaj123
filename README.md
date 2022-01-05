@@ -14,7 +14,7 @@
 - 📝 I regularly write articles on [https://sbabukanchausi.blogspot.com/](https://sbabukanchausi.blogspot.com/)
 
 - 📫 How to reach me **babusheelaj1999@gmail.com**
-- ![image](https://user-images.githubusercontent.com/64604976/147754454-104b2cd4-8b71-4409-accf-93fc9781822c.png) Google Website: **https://sites.google.com/view/sheelaj-babu/** 
+- ![image](https://user-images.githubusercontent.com/64604976/147754454-104b2cd4-8b71-4409-accf-93fc9781822c.png) 
 
 
 
