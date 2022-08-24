@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sheelaj </h1>
 <h2 align="center">Digital Specialist Engineer at Infosys from India</h2>
-<img align="center" height="200" width="500" alt="coding" width="800" src="https://c.tenor.com/qV9QZcasa-QAAAAd/welcome.gif">
+<img align="center" height="200" width="400" alt="coding" width="800" src="https://i0.wp.com/www.rotarytustin-santaana.org/wp-content/uploads/2012/01/Welcome-Animated.gif?fit=295%2C177&ssl=1">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheelaj123" alt="sheelaj123" /></a> </p>
